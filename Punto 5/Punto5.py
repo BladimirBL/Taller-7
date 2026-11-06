@@ -1,11 +1,11 @@
-# Datos iniciales de equipos (ejemplo)
+# Datos iniciales de equipos 
 equipos = {
     "E01": {"jugados":0,"ganados":0,"empatados":0,"goles_favor":0,"goles_contra":0,"puntos":0},
     "E02": {"jugados":0,"ganados":0,"empatados":0,"goles_favor":0,"goles_contra":0,"puntos":0},
     "E03": {"jugados":0,"ganados":0,"empatados":0,"goles_favor":0,"goles_contra":0,"puntos":0}
 }
 
-# Lista de partidos (ejemplo)
+# Lista de partidos 
 partidos = [
     {"local":"E01","goles_local":2,"visitante":"E02","goles_visitante":1},
     {"local":"E03","goles_local":0,"visitante":"E01","goles_visitante":0},
