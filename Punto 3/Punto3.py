@@ -1,6 +1,6 @@
 respuestas_correctas = [1,2,3,4,5]*12  
 
-# Lista de estudiantes (ejemplo)
+# Lista de estudiantes 
 estudiantes = [
     {"credencial":"A001","matematicas":[1,2,3,4,5]*6,"verbales":[1,2,3,4,5]*6},
     {"credencial":"A002","matematicas":[1]*30,"verbales":[2]*30},
